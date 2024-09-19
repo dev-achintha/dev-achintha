@@ -5,7 +5,7 @@
 <a href="https://achintha.me">
     <img src="https://img.shields.io/badge/Website-achintha.me-red?style=flat-square">
 </a>  
-<a href="https://achintha.me/Resume.pdf">
+<a href="https://github.com/dev-achintha/resume/releases/latest/download/resume.pdf">
     <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/dev-achintha/"> 
