@@ -2,11 +2,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=F7C238&center=true&multiline=true&width=435&height=100&lines=Achintha;Undergraduate+%7C+Software+Developer;Blockchain+%7C+AI+%7C+DevOps" alt="Typing SVG" /></a>
 <br/>
 <p align="center">
-<a href="https://achintha.me">
+<a href="https://dev-achintha.github.io/github_page_portfolio_redirect/">
     <img src="https://img.shields.io/badge/Website-achintha.me-red?style=flat-square">
 </a>  
 <a href="https://github.com/dev-achintha/public-resume/raw/main/achintha_resume_latest.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
+    <img src="https://img.shields.io/badge/PDF-Download CV-red?style=flat-square&logo=adobe">
 </a>  
 <a href="https://www.linkedin.com/in/dev-achintha/"> 
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
