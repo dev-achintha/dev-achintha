@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=F7C238&center=true&multiline=true&width=435&height=100&lines=Achintha;Undergraduate+%7C+Software+Developer;Blockchain+%7C+AI+%7C+DevOps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=F7C238&center=true&multiline=true&width=455&height=100&lines=Achintha;Undergraduate+%7C+Software+Developer;Blockchain+%7C+Data Engineering+%7C+DevOps" alt="Typing SVG" /></a>
 <br/>
 <p align="center">
 <a href="https://dev-achintha.github.io/github_page_portfolio_redirect/">
@@ -8,7 +8,7 @@
 <a href="https://github.com/dev-achintha/public-resume/raw/main/achintha_resume_latest.pdf">
     <img src="https://img.shields.io/badge/PDF-Download CV-red?style=flat-square&logo=adobe">
 </a>  
-<a href="https://www.linkedin.com/in/dev-achintha/"> 
+<a href="https://www.linkedin.com/in/dev-achintha/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
 </a>  
 <a href="mailto:
@@ -31,47 +31,29 @@
 
 </p>
 
-* 📖 Majoring in Information Technology with a specialization in Software Engineering @ [Horizon Campus Malabe   ](https://horizoncampus.edu.lk/)
+* 📖 Majoring in Information Technology with a specialization in Software Engineering @ [Horizon Campus Malabe](https://horizoncampus.edu.lk/)
 
 * 💻 Currently conducting research on Blockchain technology as part of my final year project.
-
 
 <table>
 <tr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-achintha&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-achintha&theme=dracula)
 
 </tr>
 <tr>
 <td>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-achintha&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-achintha&theme=dracula)
 
 </td>
 <td>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-achintha&theme=dracula)
- 
+
 </td>
 </tr>
 <tr>
 </table>
 
 <br/>
-
-Power Hours with 🎧:
-<table>
-</tr>
-<tr>
-<td>
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hu5zkm5hjv9rojvnqbq103zoa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-</td>
-<td>
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=hu5zkm5hjv9rojvnqbq103zoa&unique={true|1|on|yes}&unique={true|1|on|yes}&count=7)
-
-</td>
-</tr>
-</table>
