@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=F7C238&center=true&multiline=true&width=455&height=100&lines=Achintha;Undergraduate+%7C+Software+Developer;Blockchain+%7C+Data Engineering+%7C+DevOps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=2000&pause=300&color=F7C238&center=true&multiline=true&width=455&height=100&lines=Achintha;SAP ABAP+%7C+Software+Developer;Blockchain+%7C+Data Engineering+%7C+DevOps" alt="Typing SVG" /></a>
 <br/>
 <p align="center">
 <a href="https://dev-achintha.github.io/github_page_portfolio_redirect/">
